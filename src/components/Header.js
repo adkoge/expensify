@@ -12,6 +12,13 @@ const Header = () => (
       Create Expense
     </NavLink>
     <br />
+<<<<<<< HEAD
+=======
+    <NavLink activeClassName="is-active" to="/edit">
+      Edit Expense
+    </NavLink>
+    <br />
+>>>>>>> 81dd990124571732981d47673ddde5f82d206e77
     <NavLink activeClassName="is-active" to="/help">
       Help Page
     </NavLink>
