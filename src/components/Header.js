@@ -12,9 +12,6 @@ const Header = () => (
       Create Expense
     </NavLink>
     <br />
-    <NavLink activeClassName="is-active" to="/help">
-      Help Page
-    </NavLink>
   </header>
 );
 
